@@ -1,0 +1,5 @@
+backend/target/
+backend/JdbcTest.java
+backend/JdbcTest.class
+backend/mysql-connector-j-9.4.0.jar
+.env
